@@ -8,6 +8,9 @@
 ### Puedes ver mi portfolio en el siguiente enlace:
 https://sinisterraluciano-dev.web.app/
 
+
+  <img src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif" width="300px"/>
+
 Durante mi carrera trabaje con las siguientes tecnologias:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
