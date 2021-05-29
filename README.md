@@ -21,7 +21,7 @@ A lo largo de la ruta de mi aprendizaje trabaje con las siguientes tecnologias:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" height="40px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/firebase/firebase-plain.svg" width="40px" height="40px"/>
 </p>
 
 
