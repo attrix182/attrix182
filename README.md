@@ -1,5 +1,6 @@
 ## Hello world 👋
 
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500px"/>
 
 ## Mi nombre es Sinisterra Luciano
 
@@ -9,7 +10,7 @@
 https://sinisterraluciano-dev.web.app/
 
 
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300px"/>
+  
 
 Durante mi carrera trabaje con las siguientes tecnologias:
 <p align="left">
