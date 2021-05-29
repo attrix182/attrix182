@@ -2,17 +2,17 @@
 
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350px"/>
 
-## Mi nombre es Sinisterra Luciano
+## My name is Sinisterra Luciano
 
-### En mi perfil encontraras varios proyectos en los que estoy trabajando, varios son trabajos practicos y examenes de la universidad, pero tambien cuento con varios proyectos personales
+### On my profile you will find some projects that im working on, some of them are practice tests and exams from the university, but there are some personal projects too.
 
-### Puedes ver mi portfolio en el siguiente enlace:
+### You can see my portfolio in this link: 
 https://sinisterraluciano-dev.web.app/
 
 
   
 
-Durante mi carrera trabaje con las siguientes tecnologias:
+I know how to use:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/>
