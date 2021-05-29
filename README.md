@@ -15,7 +15,7 @@ A lo largo de la ruta de mi aprendizaje trabaje con las siguientes tecnologias:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40px" height="40px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ionic/ionic-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px" height="40px"/>
