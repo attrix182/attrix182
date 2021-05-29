@@ -6,7 +6,7 @@
 
 ### On my profile you will find some projects that im working on, some of them are practice tests and exams from the university, but there are some personal projects too.
 
-### You can see my portfolio in this link: 
+### You can see my portfolio on this link: 
 https://sinisterraluciano-dev.web.app/
 
 
