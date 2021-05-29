@@ -9,7 +9,7 @@
 https://sinisterraluciano-dev.web.app/
 
 
-  <img src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif" width="300px"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300px"/>
 
 Durante mi carrera trabaje con las siguientes tecnologias:
 <p align="left">
