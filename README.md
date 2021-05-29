@@ -1,7 +1,8 @@
 ## Hello world 👋
 
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350px" aling="center"/>
-
+<p aling="center">
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350px" />
+</p>
 ## My name is Sinisterra Luciano
 
 ### On my profile you will find some projects that im working on, some of them are practice tests and exams from the university, but there are some personal projects too.
