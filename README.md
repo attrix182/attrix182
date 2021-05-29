@@ -9,7 +9,7 @@
 https://sinisterraluciano-dev.web.app/
 
 
-A lo largo de la ruta de mi aprendizaje trabaje con las siguientes tecnologias:
+Durante mi carrera trabaje con las siguientes tecnologias:
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/>
