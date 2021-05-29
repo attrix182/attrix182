@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500px"/>
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350px"/>
 
 ## Mi nombre es Sinisterra Luciano
 
