@@ -8,11 +8,8 @@
 ### Puedes ver mi portfolio en el siguiente enlace:
 https://sinisterraluciano-dev.web.app/
 
-
-  <img src="https://image.freepik.com/vector-gratis/ilustracion-concepto_114360-2417.jpg" width="300px"/>
-
 Durante mi carrera trabaje con las siguientes tecnologias:
-<p align="center">
+<p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px"/>
