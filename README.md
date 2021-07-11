@@ -12,7 +12,7 @@
 https://sinisterraluciano-dev.web.app/
 
 
-  [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=attrix182&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=attrix182&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ## Stacks Git Hub:
 <img alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api?username=attrix182&theme=blue-green"/> 
