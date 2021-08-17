@@ -17,8 +17,6 @@ https://sinisterraluciano.com.ar/
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=attrix182&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-<a href="https://github.com/eichenbergerche/PythonCousera"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=attrix182&card_height=300&&repo=PythonCousera&langs_count=5&layout=compact&theme=gruvbox">
-
 I know how to use:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
