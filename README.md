@@ -14,6 +14,7 @@ https://sinisterraluciano.com.ar/
 ## Stats Git Hub:
 <img alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api?username=attrix182&theme=blue-green"/> 
 
+https://github-readme-stats.vercel.app/api/top-langs?username=attrix182&show_icons=true&locale=en&layout=compact
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=attrix182&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
