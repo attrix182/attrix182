@@ -17,7 +17,9 @@ https://sinisterraluciano.com.ar/
 <img alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api?username=attrix182&theme=blue-green"/> 
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=attrix182&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+ 
+ [![Attrix182 github activity graph](https://activity-graph.herokuapp.com/graph?username=attrix182&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 I know how to use:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
